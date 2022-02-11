@@ -1,18 +1,4 @@
 spring:
-  profiles: pro
-  application:
-    name: microservicecloud-config-pro
-
----
-
-spring:
   profiles: dev
   application:
     name: microservicecloud-config-dev
-
----
-
-spring:
-  profiles: test
-    application:
-      name: microservicecloud-config-test
